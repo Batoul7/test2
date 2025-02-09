@@ -2,7 +2,7 @@
   "name": "test",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://hussam633hasan.github.io/test/",
+  "homepage": "https://Batoul7.github.io/test2/",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
